@@ -22,7 +22,7 @@
       </li>
     </ul>
     <form class="form-inline my-2 my-lg-0">
-        <a class="navbar-brand" href="#"><img src="add.png" width="50px" height="50px"hspace="20"><b>0 Items-$0.00</b> <b> <strong>Plastic-star:0.0</strong></b><img src="star.png" width="40px" height="40px"hspace="5"></a>
+        <a class="navbar-brand" href="#"><img src="add.png" width="50px" height="50px"hspace="20"><b>0 Items-$0.00</b> <b> <strong>Plastic-star:5.0</strong></b><img src="star.png" width="40px" height="40px"hspace="3"></a>
 
       <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Checkout</button>
     </form>
