@@ -3,19 +3,39 @@ body {
 
 }
 
+
+
 h2 {
-  color:red;
+  color:black;
+    text-align: center;
+}
+h3 {
+
+  color:black;
+    text-align: center;
 }
 
+.footer {
+
+  margin: auto;
+  text-align: center;
+
+}
 
 .container {
-	margin: 25px;
-	padding: 25px;
+
+    overflow: auto;
+	  margin: 50px;
+}
+.cellContainer {
+    height: auto;
+ width: 25%;
+ float: center;
 }
 .navbar-brand {
 
 margin:10px;
-padding: 40px;
+padding: 60px;
 
 
 }
@@ -24,6 +44,26 @@ padding: 40px;
 background-color: #222;
 
 }
+
+
+}
+.containerMain {
+	padding: 100px;
+}
+.categoryWrapper {
+  display:  block;
+  width: 95%;
+  height: 600px;
+  padding: 5px;
+}
+
+
+.cellContainer {
+  width: 25%;
+  float: left;
+  height: auto;
+}
+
 #whatever{
   margin: 25px;
 	padding: 25px;
@@ -31,19 +71,27 @@ background-color: #222;
 #cart{
   height:60px;
   width:auto;
+
 }
 .thumb{
+
   border: 3px solid #73AD21;
+  border-color:lightgrey;
   max-width:320px;
-  height: 370px;
-    padding: 5px;
+  height: 520px;
+  padding: 5px;
+
 }
 .photoframe{
-  height:200px;
+
+  margin: auto;
+  height:180px;
     padding: 5px;
-  width:auto;
+  width:150px;
 }
+.myCategory{
 
-
+   width: 33.33px;
+   padding: 15px;
 
 }
